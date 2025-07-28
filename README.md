@@ -103,4 +103,4 @@ pip install -r requirements.txt
 Feel free to connect if you want to discuss the project or collaborate.
 
 - GitHub: [Sainath-cloud](https://github.com/Sainath-cloud)
-- LinkedIn: [www.linkedin.com/in/sai-n-emmadi](www.linkedin.com/in/sai-n-emmadi)
+- LinkedIn: [Sainath Emmadi](www.linkedin.com/in/sai-n-emmadi)
