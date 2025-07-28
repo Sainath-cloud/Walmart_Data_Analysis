@@ -96,24 +96,11 @@ Install all at once:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 🙌 Acknowledgments
-
-Big thanks to [Tushar Kumar](https://www.youtube.com/watch?v=49C3Mkmhskg) for the YouTube tutorial that inspired this project. I used his repo as a guide and made the project my own by restructuring and customizing the analysis.
-
 ---
 
 ## 🔗 Connect
 
 Feel free to connect if you want to discuss the project or collaborate.
 
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-link](https://linkedin.com/in/your-link)
+- GitHub: [your-username](https://github.com/Sainath-cloud)
+- LinkedIn: [your-link](www.linkedin.com/in/sai-n-emmadi)
