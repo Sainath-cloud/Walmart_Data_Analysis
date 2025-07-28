@@ -1,0 +1,11 @@
+# for activating environment in powershell
+. .\myproj_env1\Scripts\Activate.ps1
+
+# unzipping file in powershell
+Expand-Archive -Path walmart-10k-sales-datasets.zip -DestinationPath . 
+
+Libraries used
+pandas 
+pymysql
+sqlalchemy
+psycopg2
