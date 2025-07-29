@@ -1,7 +1,7 @@
 
 # 🛍️ Walmart Sales Analysis Project (SQL + Python)
 
-![Walmart Data Analysis](assets/Walmart Data Analysis.png)
+![Walmart Data Analysis](assets/Walmart-Data-Analysis.png)
 
 This project is a practical exploration of retail analytics using SQL and Python. I took a dataset of 10,000 Walmart sales transactions and turned it into a full data pipeline: from raw CSV to insights and visualizations. The goal was to replicate how a data analyst or business intelligence professional would work in a real-world environment.
 
